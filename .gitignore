@@ -1,0 +1,7 @@
+# 生成的原图体积大，不入库（转换后的 XIC 在 project-files/assets）
+art/raw/
+art/*.png
+.tmp/
+dist/
+node_modules/
+*.log

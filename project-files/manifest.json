@@ -1,0 +1,20 @@
+{
+  "api": "2.26",
+  "app_id": "huangdi-growth-4b7e1c9a",
+  "display_name": "皇帝成长计划",
+  "display_names": {
+    "zh": "皇帝成长计划",
+    "en": "Emperor Growth"
+  },
+  "version": "0.1.0",
+  "author": "Er7",
+  "description": "横屏皇帝养成模拟器：上朝理政、六部施政、后宫立储、科举取士、征伐四夷、天灾人祸，直至寿终或亡国，看你能留下怎样的本纪。",
+  "entry": "index.lua",
+  "display": {
+    "orientation": "landscape"
+  },
+  "app_icon_s": "app_icon_s",
+  "preload_assets": [
+    "app_icon_s"
+  ]
+}
